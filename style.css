@@ -21,7 +21,7 @@
   }
   /*Navbar*/
   .sidenav{
-      height: 100%;
+      height: 30%;
       width: 0;
       position: fixed;
       z-index: 1;
@@ -30,7 +30,7 @@
       background-color: #111;
       overflow-x: hidden;
       transition: 0.5s;
-      padding-top: 60px;
+      padding-top: 70px;
     }
     .navbutton{
         float: right;
@@ -62,7 +62,7 @@
     }
   /* Cart */
   .sidecart{
-    height: 100%;
+    height: 30%;
     width: 0;
     position: fixed;
     z-index: 1;
